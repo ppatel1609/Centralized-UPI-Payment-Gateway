@@ -1,9 +1,3 @@
-TEAM MEMBERS - 
-NIschay Agrawal - 2022A7PS1381H
-Aryan Deshmukh -  2022A7PS1283H
-Saharsh Misra 2022A7PS0074H
-Pulin Patel - 2022A7PS1539H
-Tanish Patel - 2022A7PS0103H
 
 STEPS TO RUN CODE - 
 first run the creating_data2.py file to record the merchant and user data
